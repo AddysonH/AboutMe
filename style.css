@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-black{
+    color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+.background-purple{
+    background-color:purple
+}
+
+.picSizeSmall{
+    width: 400px;
+    height: 570px;
+    border: 10px solid purple;
+}
+
+.purpleBorder{
+    border: 10px solid purple;
+}
